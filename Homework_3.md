@@ -32,5 +32,6 @@
 * Выложить плитку;
 * Повесить настенный гарнитур;
 * Проверить качество выполненной работы.
-5. ![Scrum_Image](https://user-images.githubusercontent.com/90004716/161479278-cbdcf582-7e20-4d38-b533-a15673ac7215.png)
+5. 
+![Scrum_Image](https://user-images.githubusercontent.com/90004716/161479278-cbdcf582-7e20-4d38-b533-a15673ac7215.png)
 
